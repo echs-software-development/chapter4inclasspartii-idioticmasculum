@@ -9,6 +9,6 @@ class Prob2 {
  
   System.out.println(word.substring(0,1));
 
-  System.out.println(word.length(-1));
+  System.out.println(word.length()-1);
   }
 }
